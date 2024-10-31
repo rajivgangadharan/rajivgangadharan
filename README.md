@@ -2,25 +2,6 @@
 
 🚀 **Engineering Executive | Data & AI/ML Professional | IT Leader | Agile Exponent** 
 
-🔍 Passionate Data Professional with a keen interest in creating Data Products which improve the quality of human life
-
-💻 Experienced in end to end delivery of 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-
 ---
 
 **📍 Location:** Bangalore, Karnataka, India  
@@ -33,12 +14,14 @@ Here are some ideas to get you started:
 
 ### About Me
 
-An Engineering Executive with over 20 years of experience leading IT transformations, engineering excellence, and analytics-driven decision-making across diverse domains like **Healthcare, Retail, Industrial, and Banking/Finance**. I've led large-scale AI/ML and data engineering initiatives, cold-started analytics transformations, and contributed significantly to **data-driven product innovation** and **engineering transformation**.
+An Engineering Executive with over 20 years of experience leading IT transformations (including AI/ML and Data.Eng.), 
+engineering excellence, and analytics-driven decision-making across diverse domains like **Healthcare, Retail, 
+Industrial, and Banking/Finance**. 
 
-- **Leadership:** Proven track record of delivering complex engineering projects and managing global teams of up to 200 FTEs.
-- **Data & Analytics:** Expert in **AI/ML**, **Generative AI**, **Graph Analytics**, and **Advanced Data Solutions**.
-- **Agile Delivery:** Skilled in Agile methodologies, including **Scrum, SAFe, XP, DevOps**, and have driven transformations using **Lean** principles.
-- **Industry 4.0 & IoT:** Designed and implemented reference architectures for Industry 4.0, leveraging frameworks like **Cloud Purdue Model** and **RAMI 4.0**.
+- **Leadership:** Proven track record of delivering complex engineering projects and managing large global teams.
+- **Data & Analytics:** Expertise in **AI/ML**, **Generative AI**, **Graph Analytics**, and **Advanced Data Solutions**.
+- **Agile Delivery:** Skilled in Lean-Agile methodologies, including **Scrum, SAFe, XP, DevOps, Kanban**.
+- **Industry 4.0 & IoT:** Designed and implemented reference architectures for Industry 4.0.
 
 ---
 
@@ -133,6 +116,6 @@ I'm open to collaborations, consulting, and mentorship opportunities. Feel free 
 
 ### GitHub Stats
 
-![Rajiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajivgangadharan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivgangadharan&layout=compact&theme=radical)
-
+![Rajiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajivgangadharan&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivgangadharan&layout=compact&theme=default)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)

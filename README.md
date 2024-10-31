@@ -5,7 +5,7 @@
 ---
 
 **📍 Location:** Bangalore, Karnataka, India  
-**📧 Email:** [rajiv@ambadi.net](mailto:rajiv@ambadi.net)  
+**📧 Email:** [rajiv.gangadharan@gmail.com](mailto:rajiv.gangadharan@gmail.com)  
 **🔗 LinkedIn:** [linkedin.com/in/rajivgangadharan](https://linkedin.com/in/rajivgangadharan)  
 **🌐 Blog:** [blog.ambadi.net](https://blog.ambadi.net)  
 **💼 GitHub:** [github.com/rajivgangadharan](https://github.com/rajivgangadharan)
@@ -38,7 +38,7 @@ Industrial, and Banking/Finance**.
 ### Technical Skills
 
 - **Data Engineering & Analytics:** Google BigQuery, Snowflake, Oracle, Azure Synapse, Apache Spark, Kedro, Informatica, PowerBI, Tableau, Looker
-- **Languages:** Python, R [Statement of Accomplishment with Distinction from Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972139~588919/pdf), Scala, C/C++
+- **Languages:** Python, R, Scala, C/C++
 - **MLOps & DevOps Tools:** MLFlow, Kubeflow, Neptune.ai, Fiddler AI, Ansible, Kubernetes, Helm, Prometheus, ELK, Grafana
 - **Platforms & Cloud:** GCP, Microsoft Azure, Digital Ocean
 - **Industrial IoT & Manufacturing Analytics:** IIoT, Digital Twins, Predictive Maintenance
@@ -58,37 +58,6 @@ Industrial, and Banking/Finance**.
 
 - **Jira Utility Kit (JUKA):** Developer and maintainer of JUKA, a Python utility kit for Scrum Masters working with Atlassian JIRA.
 - **Agile Program Analytics:** Contributed actionable Agile metrics pages inspired by *Actionable Agile Metrics for Predictability* by Daniel Vacanti using R and R Markdown.
-
----
-
-### Work Experience
-
-**Optum**  
-Director - Advanced Analytics (AI/ML/Graph)  
-_Bangalore, India_  
-Feb 2023 – Present
-
-**Siemens Advanta Consulting**  
-Lead (Smart-Grid Infrastructure)  
-_Bangalore, India_  
-Aug 2022 – Feb 2023
-
-**Finastra**  
-Principal (Strategic Initiatives Leader/L4 Manager)  
-_Bangalore, India_  
-May 2018 – Aug 2022
-
-**Honeywell Technology Solutions Labs**  
-Leader (Senior Engineering Manager)  
-_Bangalore, India_  
-Sep 2015 – May 2018
-
-**IBM**  
-Manager - Business Transformation (L3 Manager)  
-_Bangalore, India_  
-Sep 2009 – Sep 2015
-
-[For the complete list of work experiences and recommendations, refer to my LinkedIn profile.](https://linkedin.com/in/rajivgangadharan)
 
 ---
 

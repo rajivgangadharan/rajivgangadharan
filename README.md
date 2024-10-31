@@ -38,7 +38,7 @@ Industrial, and Banking/Finance**.
 ### Technical Skills
 
 - **Data Engineering & Analytics:** Google BigQuery, Snowflake, Oracle, Azure Synapse, Apache Spark, Kedro, Informatica, PowerBI, Tableau, Looker
-- **Languages:** Python, R, Scala, C/C++
+- **Languages:** Python, R (Coursera Statement of Accomplishment)[https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972139~588919/pdf], Scala, C/C++
 - **MLOps & DevOps Tools:** MLFlow, Kubeflow, Neptune.ai, Fiddler AI, Ansible, Kubernetes, Helm, Prometheus, ELK, Grafana
 - **Platforms & Cloud:** GCP, Microsoft Azure, Digital Ocean
 - **Industrial IoT & Manufacturing Analytics:** IIoT, Digital Twins, Predictive Maintenance

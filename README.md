@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajiv Gangadharan
 
-🚀 **Engineering Executive | Data & AI/ML Professional | IT Leader | Agile Exponent** 
+🚀 **Project/Program Manager | Data & AI/ML Professional | IT Leader | Agile Exponent** 
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### About Me
 
-An Engineering Executive with over 20 years of experience leading IT transformations (including AI/ML and Data.Eng.), 
+Over 20 years of experience leading IT transformations (including AI/ML and Data.Eng.), 
 engineering excellence, and analytics-driven decision-making across diverse domains like **Healthcare, Retail, 
 Industrial, and Banking/Finance**. 
 

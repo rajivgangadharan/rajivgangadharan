@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajiv Gangadharan
 
-🚀 **Executive Project/Program Manager | Data & AI/ML Professional | IT Leader | Agile Exponent** 
+🚀 **Executive | Data Analytics & AI/ML Professional | Strategic Leader | Lean/Agile Exponent | Startup Advisor** 
 
 ---
 

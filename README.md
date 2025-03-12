@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajiv Gangadharan
 
-🚀 **Executive | Data Analytics & AI/ML Professional | Strategic Leader | Lean/Agile Exponent | Startup Advisor** 
+🚀 **Data Analytics & AI/ML Architect | Strategic Engineering Leader | Lean/Agile Exponent | Startup Advisor** 
 
 ---
 
@@ -14,11 +14,10 @@
 
 ### About Me
 
-Over 20 years of experience leading IT transformations (including AI/ML and Data.Eng.), 
-engineering excellence, and analytics-driven decision-making across diverse domains like **Healthcare, Retail, 
-Industrial, and Banking/Finance**. 
+A seasoned Data Architect and Engineer with experience in Analytics, Machine Learning, and Artificial Intelligence  
+with exposure to diverse domains like **Healthcare, Retail, Industrial, and Banking/Finance**. 
 
-- **Leadership:** Proven track record of delivering complex engineering projects and managing large global teams.
+- **Engineering Leadership:** Proven track record of delivering complex engineering projects.
 - **Data & Analytics:** Expertise in **AI/ML**, **Generative AI**, **Graph Analytics**, and **Advanced Data Solutions**.
 - **Agile Delivery:** Skilled in Lean-Agile methodologies, including **Scrum, SAFe, XP, DevOps, Kanban**.
 - **Industry 4.0 & IoT:** Designed and implemented reference architectures for Industry 4.0.

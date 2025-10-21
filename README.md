@@ -14,7 +14,7 @@
 
 ### About Me
 
-A seasoned Data Architect and Engineer with experience in Analytics, Machine Learning, and Artificial Intelligence  
+A seasoned Executive, Data Architect and Engineer with experience in Analytics, Machine Learning, and Artificial Intelligence  
 with exposure to diverse domains like **Healthcare, Retail, Industrial, and Banking/Finance**. 
 
 - **Engineering Leadership:** Proven track record of delivering complex engineering projects.

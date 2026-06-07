@@ -30,7 +30,7 @@ with exposure to diverse domains like **Healthcare, Retail, Industrial, and Bank
 - **Program Management & Strategy:** Engineering Strategy, Budgeting, P&L Management
 - **Software Engineering:** Enterprise Architecture, Event-Driven Microservices, Domain-Driven Design
 - **Cloud & DevOps:** Azure, GCP, DataOps/MLOps, CI/CD, Infrastructure-as-Code
-- **Regulatory Compliance:** SOX, GDPR, Data Governance, Security, Audit & Compliance
+- **Regulatory Compliance:** SOX, GDPR, HITRUST, Data Governance, Security, Audit & Compliance
 
 ---
 

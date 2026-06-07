@@ -37,7 +37,7 @@ with exposure to diverse domains like **Healthcare, Retail, Industrial, and Bank
 ### Technical Skills
 
 - **Data Engineering & Analytics:** Google BigQuery, Snowflake, Oracle, Azure Synapse, Apache Spark, Kedro, Informatica, PowerBI, Tableau, Looker
-- **Languages:** Python, R, Scala, C/C++
+- **Languages:** Python & R
 - **MLOps & DevOps Tools:** MLFlow, Kubeflow, Neptune.ai, Fiddler AI, Ansible, Kubernetes, Helm, Prometheus, ELK, Grafana
 - **Platforms & Cloud:** GCP, Microsoft Azure, Digital Ocean
 - **Industrial IoT & Manufacturing Analytics:** IIoT, Digital Twins, Predictive Maintenance

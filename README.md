@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajiv Gangadharan
 
-🚀 **Data Analytics & AI/ML Architect | Strategic Engineering Leader | Startup Advisor** 
+🚀 **AI/ML Architect | Data Analytics | Strategic Engineering Leader | Startup Advisor** 
 
 ---
 
